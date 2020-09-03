@@ -1,0 +1,11 @@
+.card{
+  padding: 50px;
+  font-weight: lighter;
+}
+
+.cards{
+display: flex;
+justify-content: space-between;
+margin-bottom: 30px;
+}
+

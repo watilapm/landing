@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700|Poppins:700');
+
+@import url(components/banner.css);
+@import url(components/buttons.css);
+@import url(components/cards.css);
+@import url(components/container.css);
+@import url(components/footer.css);
+
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 20px;
+  font-family: Helvetica;
+  margin: 0;
+}
+h1{
+  font-family: Open Sans;
+  color: #E30613;
+  font-weight: lighter;
+  font-size: 40px;
+}
+h2 {
+  font-family: Open Sans;
+  color: black;
+  font-weight: lighter;
+  font-size: 25px;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+  color: gray;
+}
+
+.text-center {
+  text-align: center;
+}
